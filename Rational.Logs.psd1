@@ -25,7 +25,7 @@
     CompanyName = 'Rational Shibas'
     
     # Copyright statement for this module
-    Copyright = '(c) 2018 Irrational Shibas. All rights reserved.'
+    Copyright = '(c) 2024 Irrational Shibas. All rights reserved.'
     
     # Description of the functionality provided by this module
     Description = 'This module contains functions which are used to complement automated scripts'
@@ -124,7 +124,7 @@
     # HelpInfoURI = ''
     
     # Default prefix for commands exported from this module. Override the default prefix using Import-Module -Prefix.
-    DefaultCommandPrefix = 'Irrational'
+    # DefaultCommandPrefix = 'Irrational'
     
     }
     
