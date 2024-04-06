@@ -16,6 +16,7 @@ Current functions include the following capabilities:
 ## DETAILED DESCRIPTION
 
 Detailed below are highlights for each of the included functions
+
 ## Usage
 
 ### Set-Log/Write-Log
